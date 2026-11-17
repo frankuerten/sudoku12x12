@@ -251,6 +251,7 @@ if __name__ == "__main__":
         box_colunas
     )
 
+print("\nQuantidade de soluções:", resultado)
 
 ```
 
