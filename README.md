@@ -255,8 +255,7 @@ print("\nQuantidade de soluções:", resultado)
 
 ```
 
-
-Para utilizar o algoritmo, basta colá-lo no Google Colab, na parte final do algoritmo editar as células do sudoku_modelo 
+O algoritmo já vem com um sudoku modelo e sub-regiões de tamanho 3x4. Para utilizar o algoritmo, basta colá-lo no Google Colab, na parte final do algoritmo editar as células do sudoku_modelo 
 
 <img width="436" height="324" alt="sudoku_modelo" src="https://github.com/user-attachments/assets/dc512098-8457-4b0a-9e4b-71458dd526be" />
 
