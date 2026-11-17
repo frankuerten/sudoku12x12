@@ -256,6 +256,14 @@ print("\nQuantidade de soluções:", resultado)
 ```
 
 
-Para utilizar o algoritmo, basta colá-lo no Google Colab, editar as células do sudoku_modelo e definir o tamanho das sub-regiões em box_linhas e box_colunas. Note que os zeros representam os espaços vazios. Utilizando o exemplo dado acima, o programa retorna "Quantidade de soluções: 1 solução."
+Para utilizar o algoritmo, basta colá-lo no Google Colab, na parte final do algoritmo editar as células do sudoku_modelo 
+
+<img width="436" height="324" alt="sudoku_modelo" src="https://github.com/user-attachments/assets/dc512098-8457-4b0a-9e4b-71458dd526be" />
+
+e definir o tamanho das sub-regiões em box_linhas e box_colunas:
+
+<img width="326" height="67" alt="linhas_colunas" src="https://github.com/user-attachments/assets/44348e2d-378e-4c3e-abb1-428c977371e8" />
+
+Note que os zeros representam os espaços vazios. Utilizando o exemplo dado acima, o programa retorna "Quantidade de soluções: 1 solução."
 
 print("\nQuantidade de soluções:", resultado)
